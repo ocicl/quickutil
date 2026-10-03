@@ -2,10 +2,10 @@
 
 The solution to the Utility Library problem.
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/tarballs-are-good/quickutil.git   |
-| commit  | d0e368a  |
-| systems | quickutil |
-|---------+-------------------------------------------|
+|---------+---------------------------------------------------|
+| source  | git:https://github.com/stylewarning/quickutil.git |
+| commit  | d0e368a                                           |
+| systems | quickutil                                         |
+|---------+---------------------------------------------------|
 
   
